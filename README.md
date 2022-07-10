@@ -2,6 +2,10 @@
 
 RN-BlogApp is a mobile application that you can create, edit and delete blogs. **It developed by using React Native (Expo CLI)**.
 
+<p align="center"><img align="center" src="https://github.com/gngrozturk/RN-BlogApp/blob/master/ss/1.png" width="300" />   <img align="center" src="https://github.com/gngrozturk/RN-BlogApp/blob/master/ss/2.png" width="300" /></p>
+
+<p align="center"><img align="center" src="https://github.com/gngrozturk/RN-BlogApp/blob/master/ss/3.png" width="300" />   <img align="center" src="https://github.com/gngrozturk/RN-BlogApp/blob/master/ss/4.png" width="300" /></p>
+
 ## Getting Started
 
 In your terminal change into project folder that you created then run:
